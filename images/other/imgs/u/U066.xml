@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imgs</folder>
+	<filename>U066.jpg</filename>
+	<path>C:\Users\saisu\OneDrive\Desktop\proj\sign_to_text\img_data\imgs\U066.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1088</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>u</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>506</xmin>
+			<ymin>361</ymin>
+			<xmax>1615</xmax>
+			<ymax>1022</ymax>
+		</bndbox>
+	</object>
+</annotation>

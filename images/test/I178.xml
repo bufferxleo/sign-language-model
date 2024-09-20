@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imgs</folder>
+	<filename>I178.jpg</filename>
+	<path>C:\Users\saisu\OneDrive\Desktop\proj\sign_to_text\img_data\imgs\I178.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1088</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>i</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>548</ymin>
+			<xmax>1088</xmax>
+			<ymax>1920</ymax>
+		</bndbox>
+	</object>
+</annotation>

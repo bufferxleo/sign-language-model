@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imgs</folder>
+	<filename>I060.jpg</filename>
+	<path>C:\Users\saisu\OneDrive\Desktop\proj\sign_to_text\img_data\imgs\I060.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1088</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>i</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>448</ymin>
+			<xmax>1047</xmax>
+			<ymax>1868</ymax>
+		</bndbox>
+	</object>
+</annotation>

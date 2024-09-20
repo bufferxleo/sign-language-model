@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imgs</folder>
+	<filename>I132.jpg</filename>
+	<path>C:\Users\saisu\OneDrive\Desktop\proj\sign_to_text\img_data\imgs\I132.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1088</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>i</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>371</ymin>
+			<xmax>1087</xmax>
+			<ymax>1898</ymax>
+		</bndbox>
+	</object>
+</annotation>
